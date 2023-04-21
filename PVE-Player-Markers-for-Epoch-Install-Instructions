@@ -1,0 +1,27 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+All credit for this script goes to Ghostrider [GRG] - Visit Ghostriders github at: https://github.com/Ghostrider-DbD-
+Install instructions by Nicho1494.
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//GRG PVE-Player-Markers-for-Epoch//
+	
+//Step 1;
+
+	Download the file "PVE-Player-Markers-for-Epoch" and extract it to your documents.
+	
+	Unpack your MPMission - epoch.Altis.pbo (Changes dependable on the map you are using).
+
+//Step 2;
+	
+	Merge the contents of the EPOCH_custom_OnEachFrame.sqf file with the same file in your MPMission file which can be located at: "epoch.Altis\epoch_code\customs\EPOCH_custom_OnEachFrame.sqf".
+	
+//Step 3;
+
+	Repack your file and upload to your server.
+	
+	Restart your server and ensure no errors are present in your RPT.
+
+Additional scripts are avalible from GhostriderGaming [GRG] - Find the link at the top of this file!
+
+	
+//////////////////////////////////////////////////////////////////////////////////////////////////////
